@@ -7,8 +7,8 @@
 	ur0:tai/ftpeverywhere.suprx
 	```
 2. Copy **ftpeverywhere.suprx** to location specified in your taiHEN config **(in this example, ur0:tai/ftpeverywhere.suprx)**.	
-3. Reboot your console.
-4. **(OPTIONAL)** Install and run [SilicaAndPina's NoSleep.vpk](https://bitbucket.org/SilicaAndPina/nosleep/downloads/) for a better experience. 
+3. **(OPTIONAL)** Install and run [SilicaAndPina's NoSleep.vpk](https://bitbucket.org/SilicaAndPina/nosleep/downloads/) for a better experience. 
+4. Reboot your console.
 
 **Using the plugin:**
 
