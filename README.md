@@ -16,5 +16,7 @@ If the Wi-Fi connection on your Vita gets interrupted, the FTP server will come 
 
 **Building the plugin:**\
 Requires you to have [DolceSDK](https://forum.devchroma.nl/index.php/topic,129.0.html) installed.
-```cmake .
-make```
+```
+cmake .
+make
+```
